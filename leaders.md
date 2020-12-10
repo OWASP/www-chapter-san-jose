@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Mario Robles](mailto:mario.robles@owasp.org)
+* [Cristian Herrera](mailto:cristian.herrera@owasp.org)

@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP San Jose
-tags: example-tag
+tags: costa rica
 region: South America
 
 ---
@@ -23,6 +23,7 @@ region: This is the region you are in according to our data
 
 ## Welcome
 Include some information here about your chapter
+El objetivo del capitulo OWASP de Guatemala es concientizar acerca de las vulnerabilidades que pueden afectar a las aplicaciones y sobre como remediarlas o evitarlas. Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores y arquitectos. Esta difusión se realiza mediante eventos de capacitación y de charlas
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

@@ -6,7 +6,7 @@ tags: OWASPSanJose
 region: South America
 
 ---
-<img src="assets/img/owasp_top.jpeg" />
+<img src="assets/images/owasp_top.jpeg" />
 ## Le damos la bienvenida al capitulo OWASP San Jose, Costa Rica
 El capitulo de OWASP San Jose Costa Rica esta formado por una comunidad creciente de profesionales, estudiantes y entusiastas unidos por el interés en aprender sobre ciberseguridad, desarrollo seguro de software y AppSec en general.
 

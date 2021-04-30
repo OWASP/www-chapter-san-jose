@@ -19,3 +19,13 @@ Si quisiera participar compartiendo conocimiento puede contactar a los líderes 
 
  - Mario Robles - mario.robles@owasp.org
  - Cristian Herrera - cristian.herrera@owasp.org
+
+## Colabora
+Hay muchas formas de colaborar y contribuir con el capitulo OWASP San Jose Costa Rica.
+
+ - Participando en cualquiera de los proyectos actualmente activos (documentación y herramientas).
+ - Proponiendo nuevos proyectos.
+ - Participando y aportando ideas en nuestra lista de correo.
+ - Asistiendo a las conferencias y reuniones.
+ - Promoviendo y dando soporte al proyecto OWASP en general.
+ - Coffee Breaks y rifas en nuestros eventos.

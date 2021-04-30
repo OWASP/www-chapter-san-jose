@@ -5,7 +5,7 @@ tab: true
 order: 1
 tags: owasp-sanjose-eventos
 ---
-
+<img src="assets/images/owasp_top.jpeg" />
 ## Próximos eventos
 
 <table>

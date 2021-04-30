@@ -3,7 +3,7 @@
 * Reactivado en 2021
 
 ### Social Links
-* [Meetup (TBD)](#)
+* [Meetup](https://www.meetup.com/owasp-san-jose-cr/)
 * [LinkedIn](https://www.linkedin.com/company/owaspcr)
 * [Facebook](https://www.facebook.com/groups/OWASPCR/)
 * [Telegram](https://t.me/joinchat/FEW3Gnqvs6h40ixe)

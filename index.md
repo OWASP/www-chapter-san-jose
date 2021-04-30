@@ -2,62 +2,30 @@
 
 layout: col-sidebar
 title: OWASP San Jose
-tags: costa rica
+tags: OWASPSanJose
 region: South America
 
 ---
 
-## Bienvenidos al Capitulo OWASP de San José, Costa Rica
-El objetivo del capitulo OWASP de Guatemala es concientizar acerca de las vulnerabilidades que pueden afectar a las aplicaciones y sobre como remediarlas o evitarlas. Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores y arquitectos. Esta difusión se realiza mediante eventos de capacitación y de charlas.
+## Le damos la bienvenida al capitulo OWASP San Jose, Costa Rica
+El capitulo de OWASP San Jose Costa Rica esta formado por una comunidad creciente de profesionales, estudiantes y entusiastas unidos por el interés en aprender sobre ciberseguridad, desarrollo seguro de software y AppSec en general.
+
+## Participación
+Actualmente nos estamos reuniendo de forma virtual todos los meses con charlas y talleres, si quiere acompañarnos puede visitar la sección de reuniones y talleres en esta página.
+
+Si quisiera participar compartiendo conocimiento puede contactar a los líderes del capítulo.
+
+## Líderes del capítulo
+
+ - Mario Robles - mario.robles@owasp.org
+ - Cristian Herrera - cristian.herrera@owasp.org
 
 ## Colabora
-Hay muchas formas de colaborar y contribuir con el capitulo OWASP Guatemala.
+Hay muchas formas de colaborar y contribuir con el capitulo OWASP San Jose Costa Rica.
 
-Participando en cualquiera de los proyectos actualmente activos (documentación y herramientas).
-Proponiendo nuevos proyectos.
-Participando y aportando ideas en nuestra lista de correo.
-Asistiendo a las conferencias y reuniones.
-Promoviendo y dando soporte al proyecto OWASP en general.
-Coffee Breaks y rifas en nuestros eventos.
-
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+ - Participando en cualquiera de los proyectos actualmente activos (documentación y herramientas).
+ - Proponiendo nuevos proyectos.
+ - Participando y aportando ideas en nuestra lista de correo.
+ - Asistiendo a las conferencias y reuniones.
+ - Promoviendo y dando soporte al proyecto OWASP en general.
+ - Coffee Breaks y rifas en nuestros eventos.

@@ -1,6 +1,6 @@
 ---
 
-title: Charlas mensuales
+title: "Charlas mensuales"
 layout:  null
 tab: true
 order: 1

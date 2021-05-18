@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP San Jose Costa Rica
+title: "OWASP San Jose Costa Rica"
 tags: OWASPSanJose
 meetup-group: owasp-san-jose-cr
 region: South America
@@ -13,6 +13,10 @@ region: South America
 ## Le damos la bienvenida al capitulo OWASP San Jose, Costa Rica
 
 El capitulo de OWASP San Jose Costa Rica esta formado por una comunidad creciente de profesionales, estudiantes y entusiastas unidos por el interés en aprender sobre ciberseguridad, desarrollo seguro de software y AppSec en general.
+
+## Upcoming meetings
+
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Participación
 

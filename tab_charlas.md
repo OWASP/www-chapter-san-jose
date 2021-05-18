@@ -1,10 +1,13 @@
 ---
+
 title: Charlas mensuales
 layout:  null
 tab: true
 order: 1
 tags: owasp-sanjose-charlas
+
 ---
+
 <img src="assets/images/owasp_top.jpeg" />
 
 ## Próximas charlas

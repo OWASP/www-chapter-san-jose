@@ -4,7 +4,7 @@ title: charlasmensuales
 layout:  col-sidebar
 tab: true
 order: 1
-tags: owasp-sanjose-charlas
+tags: OWASPSanJose
 
 ---
 

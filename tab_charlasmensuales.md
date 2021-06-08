@@ -1,6 +1,6 @@
 ---
 
-title: charlasmensuales
+title: Charlas
 layout:  col-sidebar
 tab: true
 order: 1

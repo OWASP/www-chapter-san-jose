@@ -1,7 +1,7 @@
 ---
 
 title: charlasmensuales
-layout:  null
+layout:  col-sidebar
 tab: true
 order: 1
 tags: owasp-sanjose-charlas

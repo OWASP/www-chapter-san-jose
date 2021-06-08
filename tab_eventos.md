@@ -4,7 +4,7 @@ title: Eventos
 layout:  col-sidebar
 tab: true
 order: 2
-tags: owasp-sanjose-eventos
+tags: OWASPSanJose
 
 ---
 

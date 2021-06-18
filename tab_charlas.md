@@ -16,6 +16,29 @@ tags: OWASPSanJose
   <tbody>
     <tr>
       <td WIDTH="125"><b>Charla</b> </td>
+      <td> ¿Realmente cuánto aporta tu IOT en un DDOS? Por Luis Hernández, Líder capítulo OWASP Bogotá.</td>
+    </tr>
+    <tr>
+      <td><b>Descripción</b> </td>
+      <td> 
+        La temática de la charla se centra en mostrar los impactos y estadísticas de un dispositivo IOT infectado con Mirai, pero no el típico Mirai de hace unos años, si no con modificaciones realizadas para ampliar impacto en protocolos como DNS y LDAP, durante la charla voy a mostrar modificaciones puntuales sobre el código modificando las consultas DNS para aumentar el consumo de la CPU del destino, vamos a ver cuántas peticiones por segundo envía una cámara, un router vs un computador de escritorio. También vamos a ver la creación del código para realizar ataques sobre el protocolo LDAP desde la base de Mirai.
+      </td>
+    </tr>
+    <tr>
+      <td><b>Cuando</b> </td>
+      <td>Junio 24, 2021</td>
+    </tr>
+    <tr>
+      <td><b>Registro</b></td>
+      <td> La entrada a las conferencias es gratuita con previo registro. <a rel="nofollow" class="external text" href="https://www.meetup.com/owasp-san-jose-cr/events/278911305">Regístrate aquí</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td WIDTH="125"><b>Charla</b> </td>
       <td> Implementación de la ciberseguridad en el hogar y su importancia en nuestra sociedad en la era digital. por Leandro Espinoza de OWASP Pa.</td>
     </tr>
     <tr>

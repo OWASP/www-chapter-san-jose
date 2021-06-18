@@ -157,4 +157,3 @@ También se menciona que técnica fue empleada con los atacantes y que se hizo d
   </tbody>
 </table>
 
-{% include chapter_events.html group=page.meetup-group %}

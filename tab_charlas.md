@@ -25,7 +25,7 @@ tags: OWASPSanJose
       </td>
     </tr>
     <tr>
-      <td><b>Cuándo?</b> </td>
+      <td><b>¿Cuándo?</b> </td>
       <td>Junio 24, 2021</td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ tags: OWASPSanJose
     </tr>
   </tbody>
 </table>
-<br/><br/>
+<br/>
 
 <table>
   <tbody>
@@ -47,7 +47,7 @@ tags: OWASPSanJose
       <td> ¿Has oído hablar de la ciberseguridad?, ¿Sabes realmente lo que significa tener este sistema instalado en tu hogar? Firewall para usuarios finales.</td>
     </tr>
     <tr>
-      <td><b>Cuándo?</b> </td>
+      <td><b>¿Cuándo?</b> </td>
       <td>Abril 29, 2021</td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ tags: OWASPSanJose
     </tr>
   </tbody>
 </table>
-<br/><br/>
+<br/>
 
 <table>
   <tbody>
@@ -71,7 +71,7 @@ tags: OWASPSanJose
 Taller de automatización de OWASP ZAP para realizar escaneos automatizados dentro de su CICD.</td>
     </tr>
     <tr>
-      <td><b>Cuándo?</b> </td>
+      <td><b>¿Cuándo?</b> </td>
       <td>Abril 17, 2021</td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ Taller de automatización de OWASP ZAP para realizar escaneos automatizados dent
     </tr>
   </tbody>
 </table>
-<br/><br/>
+<br/>
 
 <table>
   <tbody>
@@ -93,7 +93,7 @@ Taller de automatización de OWASP ZAP para realizar escaneos automatizados dent
       <td>Demostración de diversas herramientas "open-source"y como nos pueden ayudar a validar diversos fallos en la seguridad de nuestra aplicación, usando como referencia el marco de OWASP Top 10 para vulnerabilidades en aplicaciones web.</td>
     </tr>
     <tr>
-      <td><b>Cuándo?</b> </td>
+      <td><b>¿Cuándo?</b> </td>
       <td>Marzo 25, 2021</td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@ Taller de automatización de OWASP ZAP para realizar escaneos automatizados dent
     </tr>
   </tbody>
 </table>
-<br/><br/>
+<br/>
 
 <table>
   <tbody>
@@ -119,7 +119,7 @@ Durante esta la charla menciono los tres vectores que esta empresa tuvo que enfr
 También se menciona que técnica fue empleada con los atacantes y que se hizo desde el equipo de respuesta a incidentes para identificar cómo lo estaba haciendo.</td>
     </tr>
     <tr>
-      <td><b>Cuándo?</b> </td>
+      <td><b>¿Cuándo?</b> </td>
       <td>Febrero 25, 2021</td>
     </tr>
     <tr>
@@ -128,7 +128,7 @@ También se menciona que técnica fue empleada con los atacantes y que se hizo d
     </tr>
   </tbody>
 </table>
-<br/><br/>
+<br/>
 
 <table>
   <tbody>
@@ -141,7 +141,7 @@ También se menciona que técnica fue empleada con los atacantes y que se hizo d
       <td>Invitamos a toda la comunidad al re-lanzamiento del capitulo OWASP San Jose Costa Rica donde vamos a compartir con la comunidad nuestros planes para el 2021 incluyendo charlas, talleres y dem&aacute;s actividades que estaremos realizando a lo largo del año.</td>
     </tr>
     <tr>
-      <td><b>Cuándo?</b> </td>
+      <td><b>¿Cuándo?</b> </td>
       <td>Diciembre 17, 2020</td>
     </tr>
     <tr>

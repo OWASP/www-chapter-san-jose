@@ -12,6 +12,12 @@ tags: OWASPSanJose
 
 ## Próximas charlas
 
+{% include chapter_events.html group=page.meetup-group %}
+
+[Ver en Meetup](https://www.meetup.com/owasp-san-jose-cr/)
+
+## Charlas pasadas en Eventbrite
+
 <table>
   <tbody>
     <tr>

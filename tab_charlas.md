@@ -34,6 +34,7 @@ tags: OWASPSanJose
     </tr>
   </tbody>
 </table>
+<br/><br/>
 
 <table>
   <tbody>
@@ -55,6 +56,7 @@ tags: OWASPSanJose
     </tr>
   </tbody>
 </table>
+<br/><br/>
 
 <table>
   <tbody>
@@ -78,6 +80,7 @@ Taller de automatización de OWASP ZAP para realizar escaneos automatizados dent
     </tr>
   </tbody>
 </table>
+<br/><br/>
 
 <table>
   <tbody>
@@ -99,6 +102,7 @@ Taller de automatización de OWASP ZAP para realizar escaneos automatizados dent
     </tr>
   </tbody>
 </table>
+<br/><br/>
 
 <table>
   <tbody>
@@ -124,6 +128,7 @@ También se menciona que técnica fue empleada con los atacantes y que se hizo d
     </tr>
   </tbody>
 </table>
+<br/><br/>
 
 <table>
   <tbody>

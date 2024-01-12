@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP San Jose, Costa Rica
 tags: OWASPSanJose
 meetup-group: owasp-san-jose-cr
+country: Costa Rica
 region: Central America
 
 ---
